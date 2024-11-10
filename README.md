@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MUI Practice
 
-## Getting Started
+## Overview
+This project is a small practice app built with **Next.js** and **Material-UI (MUI)**. It demonstrates basic component styling and layout using MUI in a Next.js application. The goal was to gain hands-on experience with Next.js, practice component-based development, and explore the styling capabilities of Material-UI.
 
-First, run the development server:
+## Features
+- **Material-UI Integration**: Styled using MUI components and theme customization.
+- **Responsive Design**: Layout adapts based on screen size.
+- **Custom Theme**: Adjusted typography and colors for a unique MUI theme.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tech Stack
+- **Next.js**: A React-based framework for server-side rendering and static site generation.
+- **Material-UI**: Popular React UI framework for styled components.
+- **React**: JavaScript library for building user interfaces.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Installation and Setup
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. Navigate to the project directory:
+   ```bash
+   cd Mui-practice
 
-## Learn More
+3. Install dependencies:
+   ```bash
+   npm install
+4. Run the development server:
+   ```bash
+   npm run dev
 
-To learn more about Next.js, take a look at the following resources:
+   ![image](https://github.com/user-attachments/assets/c9494c3c-b5a9-427d-b46e-d1ac61f56460)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
