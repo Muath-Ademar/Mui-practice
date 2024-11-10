@@ -30,7 +30,8 @@ This project is a small practice app built with **Next.js** and **Material-UI (M
    ```bash
    npm run dev
 
-   ![image](https://github.com/user-attachments/assets/c9494c3c-b5a9-427d-b46e-d1ac61f56460)
+![image](https://github.com/user-attachments/assets/104cfc34-eecf-41a4-a7fc-efd2fe7406f7)
+
 
 
 
